@@ -14,6 +14,16 @@
         #calendar {
             font-size: 12px; 
         }
+
+        .fc .fc-toolbar-title {
+            font-size: 1em;
+            margin: 0px;
+            margin: 10px;
+            font-weight: 700;
+            position: absolute;
+            left: 152px;
+            top: 103px;
+        }
     }
 
     /* Botones verdes de calendario para todas las pantallas */
